@@ -1,8 +1,8 @@
 ## Emergency Support Services
 
-[emergencysupportservices.org](https://emergencysupportservices.org)
+[www.emergencysupportservices.org](https://www.emergencysupportservices.org)
 
-[ess-cert.org](https://ess-cert.org)
+[www.ess-cert.org](https://www.ess-cert.org)
 
 Emergency Support Services is a team of volunteers that work with emergency services agencies to provide a variety of assets to aid in their work.
 
