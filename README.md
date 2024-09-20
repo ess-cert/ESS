@@ -4,11 +4,7 @@
 
 [www.ess-cert.org](https://www.ess-cert.org)
 
-Emergency Support Services is a team of volunteers that work with emergency services agencies to provide a variety of assets to aid in their work.
-
-Our team is a community response organization based out of the Greater Cincinnati Area of Ohio. Those on our team have training from multiple local, state, and federal agencies in a variety of emergency response roles. In addition to this training there are years of personal and professional experience in technologies used to support public service entities.
-
-Our training in emergency response gives us the ability to help our governmental emergency responders, volunteer responders, our neighbors, and ourselves when emergency management communication expertise is most needed.
+Emergency Support Services is a team of volunteers in the Greater Cincinnati Area that work with emergency service agencies to provide emergency communication support.
 
 W8ESS Repeaters (Amateur Radio)
 
