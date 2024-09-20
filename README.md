@@ -4,7 +4,7 @@
 
 [www.ess-cert.org](https://www.ess-cert.org)
 
-Emergency Support Services is a team of volunteers in the Greater Cincinnati Area that work with emergency service agencies to provide emergency communication support.
+Emergency Support Services is a team of volunteers in the Greater Cincinnati Area of Ohio that work with emergency service agencies to provide emergency communication support.
 
 W8ESS Repeaters (Amateur Radio)
 
